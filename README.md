@@ -1,4 +1,4 @@
-# Open-University Challenge by Adobe
+# Open-University Challenge by Adobe: Build a model which, within the first 90 days of the course beginning, predicts which students will not pass (withdraw and fail) when the course finishes.
 
 Background
 Given this dataset from the Open University, you’ve been tasked with utilizing it to improve outcomes.
